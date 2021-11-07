@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">EjercicioNavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="parrafo_asir">
+        Qué es ASIR<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a orci congue tellus semper
+        porta in sit amet nibh. Nam lacus turpis, vestibulum aliquam risus ut, malesuada consectetur
+        nunc. In quis aliquam turpis. Etiam quis pulvinar erat, in convallis risus. Pellentesque
+        consectetur dolor venenatis, mollis mi ut, iaculis nulla. Vivamus venenatis odio sed lobortis
+        condimentum. Sed interdum, sapien vel sodales condimentum, sem turpis tempor nisi, et molestie
+        dui nunc vel est. Curabitur lacinia est diam, vitae vestibulum est tincidunt a. Nunc ornare
+        sodales sapien, nec tristique orci posuere ut. Sed luctus neque ut hendrerit varius. Fusce
+        id arcu et dui laoreet placerat a non metus. Duis lorem tortor, semper a ipsum bibendum,
+        vestibulum gravida justo.
+    </string>
+    <string name="parrafo_dam">
+        Qué es DAM<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a orci congue tellus semper
+        porta in sit amet nibh. Nam lacus turpis, vestibulum aliquam risus ut, malesuada consectetur
+        nunc. In quis aliquam turpis. Etiam quis pulvinar erat, in convallis risus. Pellentesque
+        consectetur dolor venenatis, mollis mi ut, iaculis nulla. Vivamus venenatis odio sed lobortis
+        condimentum. Sed interdum, sapien vel sodales condimentum, sem turpis tempor nisi, et molestie
+        dui nunc vel est. Curabitur lacinia est diam, vitae vestibulum est tincidunt a. Nunc ornare
+        sodales sapien, nec tristique orci posuere ut. Sed luctus neque ut hendrerit varius. Fusce
+        id arcu et dui laoreet placerat a non metus. Duis lorem tortor, semper a ipsum bibendum,
+        vestibulum gravida justo.
+    </string>
+    <string name="parrafo_daw">
+        Qué es DAW<br/>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a orci congue tellus semper
+        porta in sit amet nibh. Nam lacus turpis, vestibulum aliquam risus ut, malesuada consectetur
+        nunc. In quis aliquam turpis. Etiam quis pulvinar erat, in convallis risus. Pellentesque
+        consectetur dolor venenatis, mollis mi ut, iaculis nulla. Vivamus venenatis odio sed lobortis
+        condimentum. Sed interdum, sapien vel sodales condimentum, sem turpis tempor nisi, et molestie
+        dui nunc vel est. Curabitur lacinia est diam, vitae vestibulum est tincidunt a. Nunc ornare
+        sodales sapien, nec tristique orci posuere ut. Sed luctus neque ut hendrerit varius. Fusce
+        id arcu et dui laoreet placerat a non metus. Duis lorem tortor, semper a ipsum bibendum,
+        vestibulum gravida justo.    </string>
+</resources>
